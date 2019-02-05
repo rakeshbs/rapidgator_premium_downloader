@@ -6,12 +6,11 @@ require "rapidgator_premium_downloader/version"
 Gem::Specification.new do |spec|
   spec.name          = "rapidgator_premium_downloader"
   spec.version       = RapidgatorPremiumDownloader::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["rakeshbs"]
+  spec.email         = ["rakeshbs@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A gem to help with downloading premium rapidgator links}
+  spec.homepage      = "rakeshbs.github.io"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
